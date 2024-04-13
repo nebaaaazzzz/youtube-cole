@@ -6,11 +6,6 @@
   <a href="">Live Project Link</a>
 </h2>
 
-<div align="center">
-  <a href="https://youtube-cole.vercel.app">
-   Link
-  </a>
-</div>
 
 <br/>
 
